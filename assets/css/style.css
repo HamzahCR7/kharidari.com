@@ -549,6 +549,7 @@ input:focus::-moz-placeholder {
 .hero-btn {
   padding: 25px 29px;
 }
+
 @media (min-width: 768px) {
   /* show 4 items */
   .carousel-inner .active,
